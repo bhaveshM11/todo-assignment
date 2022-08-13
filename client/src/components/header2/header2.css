@@ -1,0 +1,20 @@
+.header-2-box {
+	padding: 1rem 1rem;
+    background-color: #e8e8e8;
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	display: flex;
+	justify-content: flex-end;
+	margin-left: 22%;
+}
+.header-name{
+	padding: 2rem;
+	background-color: lightblue;
+	font-size: 2rem;
+	font-weight: 700;
+	border-radius:5px;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+

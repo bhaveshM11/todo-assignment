@@ -1,0 +1,39 @@
+.landing-part-2{
+   margin-left: 22%;
+}
+.landing-table{
+    margin: 1rem;
+}
+.button-box{
+    margin: 1rem;
+    margin-right: 3rem;
+    display: flex;
+    justify-content: flex-end;
+}
+.activity-btn{
+    padding: .5rem 1rem;
+    border-radius: 5px;
+}
+.activity-btn:hover{
+   background-color: rgb(219, 219, 219);
+}
+.activity-btn:active{
+    background-color: rgb(235, 235, 235);
+ }
+ .activity-input{
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 500;
+ }
+ .action-btn{
+    padding: .2rem 1rem;
+    margin: 0 5px;
+ }
+ .action-btn:hover{
+   background-color: rgb(217, 217, 217);
+ }
+ .action-btn:active{
+    background-color: rgb(228, 228, 228);
+  }
